@@ -5,7 +5,7 @@
   <em>Crafting Seamless UI/UX & IoT-Integrated Web Solutions</em>
 </p>
 
-Hi! I'm Jeremy, a passionate **Software Engineer** and Informatics student at UMN, deeply driven by system scalability and R&D. I specialize in both frontend and backend development, focusing on bridging modern web technologies with real-world hardware (Cyber-Physical Systems).
+I'm Jeremy, a passionate **Software Engineer** and Informatics student at UMN, deeply driven by system scalability and R&D. I specialize in both frontend and backend development, focusing on bridging modern web technologies with real-world hardware (Cyber-Physical Systems).
 
 Currently, I'm architecting enterprise-grade IoT access control systems and building zero-cost serverless infrastructures. I combine technical agility with leadership, bringing the creativity of a musician and the precision of an engineer to every problem I solve.
 
